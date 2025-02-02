@@ -6,7 +6,7 @@ import 'components/login_form.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
-  //comment 
+  //
 
   @override
   State<LoginScreen> createState() => _LoginScreenState();

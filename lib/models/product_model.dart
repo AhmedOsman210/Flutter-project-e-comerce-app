@@ -3,7 +3,7 @@ import 'package:shop/constants.dart';
 
 class ProductModel {
   final String image, brandName, title;
-  final double price;
+
   final double? priceAfetDiscount;
   final int? dicountpercent;
 

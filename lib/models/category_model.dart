@@ -1,7 +1,5 @@
 class CategoryModel {
   final String title;
-  
-  
   final String? image, svgSrc;
   final List<CategoryModel>? subCategories;
 

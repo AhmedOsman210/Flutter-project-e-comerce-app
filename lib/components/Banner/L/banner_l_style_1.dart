@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:shop/components/Banner/L/banner_l.dart';
 
 import '../../../constants.dart';
-///comment to he
+
 class BannerLStyle1 extends StatelessWidget {
 
   const BannerLStyle1({
